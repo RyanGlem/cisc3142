@@ -1,0 +1,8 @@
+2000	(2) 111 211 
+2010	(2) 112 212 
+2020	(5) 113 213 321 322 323 
+Average price of ABC brands: $1
+Average price of XYZ brands: $2
+Average price of A category: $1.6
+Average price of B category: $1
+Average price of C category: $1
